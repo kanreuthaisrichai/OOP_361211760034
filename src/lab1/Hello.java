@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("Facuity Management Technology");
         System.out.println("Saiyai");
         System.out.println("krabi");
+        System.out.println("jan");
 
 
 
