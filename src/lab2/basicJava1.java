@@ -34,6 +34,8 @@ public class basicJava1 {
 
         System.out.println(t.toUpperCase());
 
+        System.out.println("RUTS");
+
 
     }
 
