@@ -7,12 +7,12 @@ public class Method_Exercise {
         System.out.println("Hello from Main().");
         int summation = A(10,20);
         System.out.println("the summation of x and y :"+summation);
-        int summation1 = B(50,20);
-        System.out.println("the summation of x and y :"+summation1);
-        int summation2 = C(10,10);
-        System.out.println("the summation of x and y :"+summation2);
-        int summation3 = D(85,5);
-        System.out.println("the summation of x and y :"+summation3);
+        int delete = B(50,20);
+        System.out.println("the summation of x and y :"+delete);
+        int multiply = C(10,10);
+        System.out.println("the summation of x and y :"+multiply);
+        int divide = D(85,5);
+        System.out.println("the summation of x and y :"+divide);
     }//main
     public static int A(int x, int y) {
         System.out.println("Hello form A().");
